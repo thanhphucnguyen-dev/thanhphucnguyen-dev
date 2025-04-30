@@ -1,17 +1,23 @@
-🚀 Hello, I'm **Thanh Phuc Nguyen**  
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+ThanhPhuc👋;Building+the+future+one+line+at+a+time!🚀;Welcome+to+my+GitHub!&font=Inter&center=true&width=600&height=70&color=0D74FF&vCenter=true&size=24&background=gradient-to-r%2C%2300c6ff%2C%2300aaff" alt="Typing SVG" />
+  </a>
+</div>
 
-<p>
-I'm a passionate Front-End Developer who believes that every interface is an opportunity to tell a story, and every line of code is a step toward creating a better user experience.
-My goal is not only to build functional applications but to craft seamless, intuitive experiences that connect with people on a deeper level.
-</p>
+<div>
+  <p align="center">
+    I'm a passionate **Front-End Developer** who believes that every interface is an opportunity to tell a story,  
+    and every line of code is a step toward creating a better user experience.  
+    My goal is not only to build functional applications, but to craft seamless, intuitive experiences  
+    that connect with people on a deeper level.
+  </p>
+  <p align="center"><i>💡 I design experiences for the world, and build a meaningful life for myself.</i></p>
 
-<p><i>💡 I design experiences for the world, and build a meaningful life for myself.</i></p>
+</div>
 
 ---
 
 <h2 align="center">👽 Where to find me 👽</h2>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/thanhphucnguyen1810/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn" />
@@ -23,34 +29,6 @@ My goal is not only to build functional applications but to craft seamless, intu
 
 ---
 
-<h2 align="center">📊 GitHub Overview</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhphucnguyen-dev&include_orgs=true&layout=compact&theme=react&show_icons=true" height="180" alt="GitHub Stats"/>
-</div>
-
----
-
-<h2 align="center">📌 Languages & Contributions</h2>
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphucnguyen-dev&hide=jupyter%20notebook,html&langs_count=9&layout=compact&theme=react" height="180" alt="Top Languages"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanhphucnguyen-dev&theme=react&exclude=jupyter%20notebook" height="180" alt="Most Commit Language"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanhphucnguyen-dev&theme=react&exclude=jupyter%20notebook" height="180" alt="Repos per Language"/></td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🧩 Contribution Insights</h2>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhphucnguyen-dev&theme=react" width="800" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thanhphucnguyen-dev&theme=react&utcOffset=7" width="800" alt="Productive Time"/>
-</div>
-
----
 <h2 align="center">⚡ Technologies and Skills</h2>
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
@@ -101,17 +79,88 @@ My goal is not only to build functional applications but to craft seamless, intu
 
 </div>
 
+---
+
+<h2 align="center">📊 GitHub Overview</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thanhphucnguyen-dev&include_orgs=true&layout=compact&theme=react&show_icons=true" height="180" alt="GitHub Stats"/>
+</div>
+
+---
+
+<h2 align="center">📌 Languages & Contributions</h2>
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphucnguyen-dev&hide=jupyter%20notebook,html&langs_count=9&layout=compact&theme=react" height="180" alt="Top Languages"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanhphucnguyen-dev&theme=react&exclude=jupyter%20notebook" height="180" alt="Most Commit Language"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanhphucnguyen-dev&theme=react&exclude=jupyter%20notebook" height="180" alt="Repos per Language"/></td>
+  </tr>
+</table>
 
 ---
 
 <h2 align="center">💻 Notable Projects</h2>
+
 <p align="center">
-  <!-- Bạn có thể thêm mô tả dự án tại đây nếu muốn -->
+  🚧 Here are some projects I've been working on. More coming soon!
 </p>
+
+<div align="center">
+
+  <!-- Hàng 1 -->
+
+  <a href="https://github.com/thanhphucnguyen-dev/react-weather-app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=react-weather-app&theme=react" width="400" />
+  </a>
+  <a href="https://github.com/thanhphucnguyen-dev/trello-clone-api" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=trello-clone-api&theme=react" width="400" />
+  </a>
+
+<br /><br />
+
+  <!-- Hàng 2 -->
+  <a href="https://github.com/thanhphucnguyen-dev/tiktok-ui-clone" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=tiktok-ui-clone&theme=react" width="400" />
+  </a>
+  <a href="https://github.com/thanhphucnguyen-dev/tailwind-indoor-plants" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=tailwind-indoor-plants&theme=react" width="400" />
+  </a>
+
+</div>
 
 ---
 
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/thanhphucnguyen-dev/count.svg"/>
-</p>
+<h2 align="center">🧩 Contribution Insights</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhphucnguyen-dev&theme=react" width="500" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thanhphucnguyen-dev&theme=react&utcOffset=7" width="500" alt="Productive Time"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhphucnguyen-dev&theme=react" alt="Phuc's github activity graph"/>
+  </a>
+</div>
+
+---
+
+<h2 align="center">Visitor's count 👀</h2>
+<div align="center">
+  <!-- Visitor Count -->
+  <img src="https://profile-counter.glitch.me/thanhphucnguyen-dev/count.svg" alt="Visitor Count" />
+  
+  <br /><br />
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=thanhphucnguyen-dev&theme=discord&no-frame=true" alt="GitHub Trophies" />
+
+<br /><br />
+
+  <!-- Random Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
+
+---
