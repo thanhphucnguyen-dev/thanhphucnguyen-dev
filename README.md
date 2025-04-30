@@ -57,7 +57,7 @@ My goal is not only to build functional applications but to craft seamless, intu
 
   <!-- Programming Languages -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/>
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
     <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"/>
     <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/>
     <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"/>
@@ -69,7 +69,7 @@ My goal is not only to build functional applications but to craft seamless, intu
     <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/>
     <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"/>
     <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"/>
-    <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express"/>
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express"/>
   </div>
 
   <!-- Frameworks and Tools -->
@@ -80,7 +80,7 @@ My goal is not only to build functional applications but to craft seamless, intu
     <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png" alt="Spring"/>
     <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue"/>
     <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"/>
-    <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="Django"/>
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django"/>
   </div>
 
   <!-- UI/UX Tools -->
