@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+ThanhPhuc👋;Building+the+future+one+line+at+a+time!🚀;Welcome+to+my+GitHub!&font=Inter&center=true&width=600&height=70&color=0D74FF&vCenter=true&size=24&background=gradient-to-r,%2300c6ff,%2300aaff" alt="Typing SVG" />
 </p>
 
-
 <div>
   <p align="center">
     I'm a passionate **Front-End Developer** who believes that every interface is an opportunity to tell a story,  
@@ -24,6 +23,9 @@
   <a href="mailto:thanhphucnguyen54@gmail.com" target="_top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Email" />
   </a>
+
+
+
 </div>
 
 ---
@@ -92,9 +94,9 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphucnguyen-dev&hide=jupyter%20notebook,html&langs_count=9&layout=compact&theme=algolia" height="180" alt="Top Languages"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanhphucnguyen-dev&theme=algolia&exclude=jupyter%20notebook" height="180" alt="Most Commit Language"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanhphucnguyen-dev&theme=algolia&exclude=jupyter%20notebook" height="180" alt="Repos per Language"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphucnguyen-dev&hide=jupyter%20notebook,html&langs_count=9&layout=compact&theme=react" height="180" alt="Top Languages"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanhphucnguyen-dev&theme=react&exclude=jupyter%20notebook" height="180" alt="Most Commit Language"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanhphucnguyen-dev&theme=react&exclude=jupyter%20notebook" height="180" alt="Repos per Language"/></td>
   </tr>
 </table>
 
@@ -109,10 +111,22 @@
 <div align="center">
 
   <!-- Hàng 1 -->
-
-  <a href="https://github.com/thanhphucnguyen-dev/react-weather-app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=react-weather-app&theme=react" width="400" />
+  <!-- LeetCode-clone -->
+  <a href="https://github.com/thanhphucnguyen-dev/LeetCode-clone" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=LeetCode-clone&theme=react" width="400" />
   </a>
+  <!-- Conversation-bot -->
+  <a href="https://github.com/thanhphucnguyen-dev/conversation-bot" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=conversation-bot&theme=react" width="400" />
+  </a>
+
+<br /><br />
+
+  <!-- React-trello-app -->
+  <a href="https://github.com/thanhphucnguyen-dev/react-trello-app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=react-trello-app&theme=react" width="400" />
+  </a>
+  <!-- Trello-clone-api -->
   <a href="https://github.com/thanhphucnguyen-dev/trello-clone-api" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=trello-clone-api&theme=react" width="400" />
   </a>
@@ -120,8 +134,8 @@
 <br /><br />
 
   <!-- Hàng 2 -->
-  <a href="https://github.com/thanhphucnguyen-dev/tiktok-ui-clone" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=tiktok-ui-clone&theme=react" width="400" />
+  <a href="https://github.com/thanhphucnguyen-dev/netflix-clone" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=netflix-clone&theme=react" width="400" />
   </a>
   <a href="https://github.com/thanhphucnguyen-dev/tailwind-indoor-plants" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=tailwind-indoor-plants&theme=react" width="400" />
