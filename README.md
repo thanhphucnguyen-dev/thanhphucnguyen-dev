@@ -133,9 +133,9 @@
 
 <br /><br />
 
-  <!-- Hàng 2 -->
-  <a href="https://github.com/thanhphucnguyen-dev/netflix-clone" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=netflix-clone&theme=react" width="400" />
+  <!-- Realtime-chatapp-mern -->
+  <a href="https://github.com/thanhphucnguyen-dev/realtime-chatapp-mern" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=realtime-chatapp-mern&theme=react" width="400" />
   </a>
   <a href="https://github.com/thanhphucnguyen-dev/tailwind-indoor-plants" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=tailwind-indoor-plants&theme=react" width="400" />
