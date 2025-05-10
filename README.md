@@ -4,7 +4,7 @@
 
 <div>
   <p align="center">
-    I'm a passionate **Front-End Developer** who believes that every interface is an opportunity to tell a story,  
+    I'm a passionate <strong>Front-End Developer</strong> who believes that every interface is an opportunity to tell a story,  
     and every line of code is a step toward creating a better user experience.  
     My goal is not only to build functional applications, but to craft seamless, intuitive experiences  
     that connect with people on a deeper level.
@@ -85,10 +85,20 @@
 <h2 align="center">📊 GitHub Overview</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhphucnguyen-dev&include_orgs=true&layout=compact&theme=react&show_icons=true" height="180" alt="GitHub Stats"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=thanhphucnguyen-dev&include_orgs=true&layout=compact&theme=react&show_icons=true" height="180" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=thanhphucnguyen-dev&theme=react&hide_border=false" height="180" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
+
 
 <h2 align="center">📌 Languages & Contributions</h2>
 
@@ -108,55 +118,96 @@
   🚧 Here are some projects I've been working on. More coming soon!
 </p>
 
-<div align="center">
-
-  <!-- Hàng 1 -->
-  <!-- LeetCode-clone -->
-  <a href="https://github.com/thanhphucnguyen-dev/LeetCode-clone" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=LeetCode-clone&theme=react" width="400" />
-  </a>
-  <!-- Conversation-bot -->
-  <a href="https://github.com/thanhphucnguyen-dev/conversation-bot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=conversation-bot&theme=react" width="400" />
-  </a>
-
-<br /><br />
-
-  <!-- React-trello-app -->
-  <a href="https://github.com/thanhphucnguyen-dev/react-trello-app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=react-trello-app&theme=react" width="400" />
-  </a>
-  <!-- Trello-clone-api -->
-  <a href="https://github.com/thanhphucnguyen-dev/trello-clone-api" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=trello-clone-api&theme=react" width="400" />
-  </a>
-
-<br /><br />
-
-  <!-- Realtime-chatapp-mern -->
-  <a href="https://github.com/thanhphucnguyen-dev/realtime-chatapp-mern" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=realtime-chatapp-mern&theme=react" width="400" />
-  </a>
-  <a href="https://github.com/thanhphucnguyen-dev/tailwind-indoor-plants" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=tailwind-indoor-plants&theme=react" width="400" />
-  </a>
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/thanhphucnguyen-dev/LeetCode-clone" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=LeetCode-clone&theme=react" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/thanhphucnguyen-dev/conversation-bot" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=conversation-bot&theme=react" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/thanhphucnguyen-dev/react-trello-app" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=react-trello-app&theme=react" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/thanhphucnguyen-dev/trello-clone-api" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=trello-clone-api&theme=react" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/thanhphucnguyen-dev/realtime-chatapp-mern" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=realtime-chatapp-mern&theme=react" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/thanhphucnguyen-dev/react-weather-app" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=react-weather-app&theme=react" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+        <td>
+      <a href="https://github.com/thanhphucnguyen-dev/tailwind-indoor-plants" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=tailwind-indoor-plants&theme=react" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/thanhphucnguyen-dev/mern-shop-basic" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=mern-shop-basic&theme=react" width="400" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <h2 align="center">🧩 Contribution Insights</h2>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhphucnguyen-dev&theme=react" width="500" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thanhphucnguyen-dev&theme=react&utcOffset=7" width="500" alt="Productive Time"/>
+<!-- Hai biểu đồ trên cùng một hàng, cùng chiều cao -->
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <!-- Profile Details -->
+  <div style="flex: 1; min-width: 450px;">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhphucnguyen-dev&theme=react" 
+      style="width: 60%; height: auto; object-fit: cover;" 
+      alt="Profile Details" 
+    />
+  </div>
+
+  <!-- Productive Time -->
+  <div style="flex: 1; min-width: 450px;">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thanhphucnguyen-dev&theme=react&utcOffset=7" 
+      style="width: 60%; height: auto; object-fit: cover;" 
+      alt="Productive Time" 
+    />
+  </div>
 </div>
 
+<br/>
+
+<!-- Biểu đồ hoạt động -->
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhphucnguyen-dev&theme=react" alt="Phuc's github activity graph"/>
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=thanhphucnguyen-dev&theme=react" 
+      width="60%"
+      height="auto"
+      alt="Phuc's GitHub Activity Graph" 
+    />
   </a>
 </div>
+
 
 ---
 
