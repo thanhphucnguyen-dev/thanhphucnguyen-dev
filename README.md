@@ -138,15 +138,15 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/thanhphucnguyen-dev/trello-clone-api" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=trello-clone-api&theme=react" width="400" />
+      <a href="https://github.com/thanhphucnguyen-dev/realtime-chatapp-mern" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=realtime-chatapp-mern&theme=react" width="400" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/thanhphucnguyen-dev/realtime-chatapp-mern" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=realtime-chatapp-mern&theme=react" width="400" />
+      <a href="https://github.com/thanhphucnguyen-dev/mern-shop-basic" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=mern-shop-basic&theme=react" width="400" />
       </a>
     </td>
     <td>
@@ -156,14 +156,14 @@
     </td>
   </tr>
   <tr>
-        <td>
+    <td>
       <a href="https://github.com/thanhphucnguyen-dev/tailwind-indoor-plants" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=tailwind-indoor-plants&theme=react" width="400" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/thanhphucnguyen-dev/mern-shop-basic" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=mern-shop-basic&theme=react" width="400" />
+      <a href="https://github.com/thanhphucnguyen-dev/tiktok-ui-clone" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=tiktok-ui-clone&theme=react" width="400" />
       </a>
     </td>
   </tr>
