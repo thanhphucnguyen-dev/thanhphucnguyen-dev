@@ -104,7 +104,7 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphucnguyen-dev&hide=jupyter%20notebook,html&langs_count=9&layout=compact&theme=react" height="180" alt="Top Languages"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphucnguyen-dev&hide=jupyter%20notebook,html&langs_count=10&layout=compact&theme=react" height="180" alt="Top Languages"/></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanhphucnguyen-dev&theme=react&exclude=jupyter%20notebook" height="180" alt="Most Commit Language"/></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanhphucnguyen-dev&theme=react&exclude=jupyter%20notebook" height="180" alt="Repos per Language"/></td>
   </tr>
