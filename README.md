@@ -4,10 +4,8 @@
 
 <div>
   <p align="center">
-    I'm a passionate <strong>Front-End Developer</strong> who believes that every interface is an opportunity to tell a story,  
-    and every line of code is a step toward creating a better user experience.  
-    My goal is not only to build functional applications, but to craft seamless, intuitive experiences  
-    that connect with people on a deeper level.
+    Enthusiastic <strong> Frontend Developer </strong> skilled in React, Angular, and JavaScript. Passionate about building interactive user 
+    experiences and eager to contribute to impactful projects while continuously learning and growing. 
   </p>
   <p align="center"><i>💡 I design experiences for the world, and build a meaningful life for myself.</i></p>
 
@@ -20,12 +18,12 @@
   <a href="https://www.linkedin.com/in/thanhphucnguyen1810/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn" />
   </a>
+    <a href="https://github.com/thanhphucnguyen-dev" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="GitHub" />
+  </a>
   <a href="mailto:thanhphucnguyen54@gmail.com" target="_top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Email" />
   </a>
-
-
-
 </div>
 
 ---
@@ -121,8 +119,8 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/thanhphucnguyen-dev/LeetCode-clone" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=LeetCode-clone&theme=react" width="400" />
+    <a href="https://github.com/thanhphucnguyen-dev/fashion-ecommerce-store" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=fashion-ecommerce-store&theme=react" width="400" />
       </a>
     </td>
     <td>
@@ -145,8 +143,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/thanhphucnguyen-dev/mern-shop-basic" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=mern-shop-basic&theme=react" width="400" />
+      <a href="https://github.com/thanhphucnguyen-dev/LeetCode-clone" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=LeetCode-clone&theme=react" width="400" />
       </a>
     </td>
     <td>
