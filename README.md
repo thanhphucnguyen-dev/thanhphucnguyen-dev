@@ -86,10 +86,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=thanhphucnguyen-dev&include_orgs=true&layout=compact&theme=react&show_icons=true" height="180" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=thanhphucnguyen1810&include_orgs=true&layout=compact&theme=react&show_icons=true" height="180" alt="GitHub Stats"/>
       </td>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=thanhphucnguyen-dev&theme=react&hide_border=false" height="180" alt="GitHub Streak"/>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=thanhphucnguyen1810&theme=react&hide_border=false" height="180" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
@@ -102,9 +102,9 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphucnguyen-dev&hide=jupyter%20notebook,html&langs_count=10&layout=compact&theme=react" height="180" alt="Top Languages"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanhphucnguyen-dev&theme=react&exclude=jupyter%20notebook" height="180" alt="Most Commit Language"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanhphucnguyen-dev&theme=react&exclude=jupyter%20notebook" height="180" alt="Repos per Language"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphucnguyen1810&hide=jupyter%20notebook,html&langs_count=10&layout=compact&theme=react" height="180" alt="Top Languages"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanhphucnguyen1810&theme=react&exclude=jupyter%20notebook" height="180" alt="Most Commit Language"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanhphucnguyen1810&theme=react&exclude=jupyter%20notebook" height="180" alt="Repos per Language"/></td>
   </tr>
 </table>
 
@@ -119,49 +119,49 @@
 <table align="center">
   <tr>
     <td>
-    <a href="https://github.com/thanhphucnguyen-dev/fashion-ecommerce-store" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=fashion-ecommerce-store&theme=react" width="400" />
+    <a href="https://github.com/thanhphucnguyen1810/fashion-ecommerce-store" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen1810&repo=fashion-ecommerce-store&theme=react" width="400" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/thanhphucnguyen-dev/conversation-bot" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=conversation-bot&theme=react" width="400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/thanhphucnguyen-dev/react-trello-app" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=react-trello-app&theme=react" width="400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/thanhphucnguyen-dev/realtime-chatapp-mern" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=realtime-chatapp-mern&theme=react" width="400" />
+      <a href="https://github.com/thanhphucnguyen1810/conversation-bot" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen1810&repo=conversation-bot&theme=react" width="400" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/thanhphucnguyen-dev/LeetCode-clone" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=LeetCode-clone&theme=react" width="400" />
+      <a href="https://github.com/thanhphucnguyen1810/react-trello-app" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen1810&repo=react-trello-app&theme=react" width="400" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/thanhphucnguyen-dev/react-weather-app" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=react-weather-app&theme=react" width="400" />
+      <a href="https://github.com/thanhphucnguyen1810/realtime-chatapp-mern" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen1810&repo=realtime-chatapp-mern&theme=react" width="400" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/thanhphucnguyen-dev/tailwind-indoor-plants" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=tailwind-indoor-plants&theme=react" width="400" />
+      <a href="https://github.com/thanhphucnguyen1810/LeetCode-clone" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen1810&repo=LeetCode-clone&theme=react" width="400" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/thanhphucnguyen-dev/tiktok-ui-clone" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen-dev&repo=tiktok-ui-clone&theme=react" width="400" />
+      <a href="https://github.com/thanhphucnguyen1810/react-weather-app" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen1810&repo=react-weather-app&theme=react" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/thanhphucnguyen1810/tailwind-indoor-plants" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen1810&repo=tailwind-indoor-plants&theme=react" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/thanhphucnguyen1810/tiktok-ui-clone" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphucnguyen1810&repo=tiktok-ui-clone&theme=react" width="400" />
       </a>
     </td>
   </tr>
@@ -176,7 +176,7 @@
   <!-- Profile Details -->
   <div style="flex: 1; min-width: 450px;">
     <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhphucnguyen-dev&theme=react" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhphucnguyen1810&theme=react" 
       style="width: 60%; height: auto; object-fit: cover;" 
       alt="Profile Details" 
     />
@@ -185,7 +185,7 @@
   <!-- Productive Time -->
   <div style="flex: 1; min-width: 450px;">
     <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thanhphucnguyen-dev&theme=react&utcOffset=7" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thanhphucnguyen1810&theme=react&utcOffset=7" 
       style="width: 60%; height: auto; object-fit: cover;" 
       alt="Productive Time" 
     />
@@ -198,7 +198,7 @@
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=thanhphucnguyen-dev&theme=react" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=thanhphucnguyen1810&theme=react" 
       width="60%"
       height="auto"
       alt="Phuc's GitHub Activity Graph" 
@@ -212,12 +212,12 @@
 <h2 align="center">Visitor's count 👀</h2>
 <div align="center">
   <!-- Visitor Count -->
-  <img src="https://profile-counter.glitch.me/thanhphucnguyen-dev/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/thanhphucnguyen1810/count.svg" alt="Visitor Count" />
   
   <br /><br />
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=thanhphucnguyen-dev&theme=discord&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thanhphucnguyen1810&theme=discord&no-frame=true" alt="GitHub Trophies" />
 
 <br /><br />
 
